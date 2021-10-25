@@ -1,4 +1,5 @@
-Olá! Seja bem-vindo ao meu perfil, eu sou Luis Eduardo.
+<h1> Olá, seja bem-vindo(a) ao meu repositório! Eu me chamo Luis Eduardo e é um prazer te ver aqui!</h1>
+<h1> Hello, welcome to my repository! My name is Luis Eduardo and it's a pleasure to see you here!</h1>
 
 <div align="center">
   <a href="https://github.com/devluisedu">
